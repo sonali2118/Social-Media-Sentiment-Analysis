@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis
+# 🐦 Social Media Sentiment Analysis
 
 This project performs **sentiment analysis** on Twitter text data to classify tweets into categories such as **Positive, Negative, Neutral, and Irrelevant**.  
 It leverages **NLP preprocessing**, **TF-IDF vectorization**, and **Machine Learning models** to predict sentiment.
